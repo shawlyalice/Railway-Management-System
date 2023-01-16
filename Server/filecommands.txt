@@ -1,0 +1,12 @@
+@I:\project\showall.sql;
+@I:\project\showtrain.sql;
+@I:\project\showpassenger.sql;
+@I:\project\showbooking.sql;
+@I:\project\showticket.sql;
+@I:\project\showstation.sql;
+@I:\project\showtroute.sql;
+@I:\project\cls.sql;
+@I:\project\tcreate.sql;
+@I:\project\tinsert.sql;
+@I:\project\tdrop.sql;
+@I:\project\tclear.sql;

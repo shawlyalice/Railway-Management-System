@@ -1,0 +1,21 @@
+Train(tid, tname, source, destination, seats)
+
+Station(stid, stname)
+
+Passenger(pid, pname, gender, age, city)
+
+Ticket(ticketid, tid, availablity, class, source, dest, fare, departure_time, count)
+
+TRoute(tid, stid, arrival, departure)
+
+Booking(bid, pid, ticketid, seat_no, seat_type, booking_status, stationid)
+
+//
+IP_PC - 192.168.1.105
+
+ping 192.168.1.110 -t
+
+//
+
+funcs/procs:
+	total_ticket_sales, train_passengers, cheap_ticket_train
