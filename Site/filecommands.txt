@@ -1,0 +1,12 @@
+@C:\Users\Shawly\OneDrive\Desktop\Site\showall.sql;
+@C:\Users\Shawly\OneDrive\Desktop\Site\showtrain.sql;
+@C:\Users\Shawly\OneDrive\Desktop\Site\showpassenger.sql;
+@C:\Users\Shawly\OneDrive\Desktop\Site\showbooking.sql;
+@C:\Users\Shawly\OneDrive\Desktop\Site\showticket.sql;
+@C:\Users\Shawly\OneDrive\Desktop\Site\showstation.sql;
+@C:\Users\Shawly\OneDrive\Desktop\Site\showtroute.sql;
+@C:\Users\Shawly\OneDrive\Desktop\Site\cls.sql;
+@C:\Users\Shawly\OneDrive\Desktop\Site\tcreate.sql;
+@C:\Users\Shawly\OneDrive\Desktop\Site\tinsert.sql;
+@C:\Users\Shawly\OneDrive\Desktop\Site\tdrop.sql;
+@C:\Users\Shawly\OneDrive\Desktop\Site\tclear.sql;
